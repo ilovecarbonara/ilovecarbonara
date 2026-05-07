@@ -13,11 +13,11 @@ ilovecarbonara@github ~ % cat about.txt
 
 ilovecarbonara@github ~ %
 </pre>
-<br>
 
-<br>
+</div>
 
 ---
+<div align="center">
 
 ### Connect
 
